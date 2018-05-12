@@ -1,15 +1,16 @@
 _repo: The-Library-Assistant-s-Manual_46555
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46555/46555-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46555-h/images/cover.jpg
 creator:
   author:
     agent_name: Koch, Theodore W.
     gutenberg_agent_id: '43847'
     url: http://www.gutenberg.org/2009/agents/43847
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46555#The-Library-Assistant-s-Manual
 gutenberg_issued: '2014-08-10'
 gutenberg_type: Text
 identifiers:
